@@ -35,7 +35,11 @@ https://pocket-se.info/archives/700/
 
 * Fontデータ： Noto Sans JP-Medium SDF (TMP_Font Asset)
 * そのほかの使用ツール：GitHub、SorceTree、Visualstudio
-  
+
+## プレイ動画
+実際に動いている様子はこちらの動画からご覧ください。  
+https://youtu.be/4eQ_TFMWk7Y
+ 
 ## サンプルプレイ
 ぜひゲームを体験してください！  
 (https://kaeru201.cheap.jp/)
